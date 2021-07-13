@@ -1,0 +1,17 @@
+.header-red {
+    height: 400px;
+    background-color: $jelly-bean;
+    .header-red__titulo {
+        color: $white;
+        font-family: $raleway;
+        max-width : 340px;
+        max-height: 139px;
+        span {
+            font-size: $font-large !important;
+            font-weight: $bold !important;
+        }
+        
+
+    }
+
+}
